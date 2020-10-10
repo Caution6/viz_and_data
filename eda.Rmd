@@ -201,3 +201,6 @@ weather_df %>%
     )
 ```
 
+## Quick notes
+
+summarize only gets you so far.
